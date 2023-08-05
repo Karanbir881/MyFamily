@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/nav_home">
+
+    </item>
+    <item android:title="Dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:id="@+id/Dashboard">
+
+    </item>
+    <item android:title="NavGuard"
+        android:icon="@drawable/shield"
+        android:id="@+id/nav_guard">
+
+    </item>
+    <item android:title="Profile"
+        android:icon="@drawable/user"
+        android:id="@+id/profile">
+
+    </item>
+
+</menu>
